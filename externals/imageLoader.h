@@ -8,8 +8,7 @@
 #ifndef IMAGELOADER_H_
 #define IMAGELOADER_H_
 
-extern "C"
-{
+extern "C"{
 
 	// Moved image pointer to next image
 	byte *NextImage(byte *pImage, int imgStride, ROI size);
