@@ -1,0 +1,3 @@
+http://cudakim.googlecode.com/svn/trunk/stereoVision/
+http://cudakim.googlecode.com/svn/trunk/stereoVision/imageLoader.h
+http://cudakim.googlecode.com/svn/trunk/stereoVision/imageLoader.cpp
